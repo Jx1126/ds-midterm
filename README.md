@@ -12,23 +12,10 @@
 </div>
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 ### Built With
 
 - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-- ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-### Prerequisites
-
-
-### Installation
-
 
 
 <!-- LICENSE -->
